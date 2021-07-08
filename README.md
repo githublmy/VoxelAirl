@@ -6,4 +6,4 @@ https://githublmy.github.io/voxelAirl
 
 
 
-原生js制作特效网站，其中包括轮播图，翻页，动画，音频，canvas
+原生js制作特效网站，其中包括轮播图，翻页，css3动画，音频
