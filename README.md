@@ -2,7 +2,7 @@
 VoxelAir创意网站
 
 在线展示：
-https://githublmy.github.io/voxelAirl
+https://githublmy.github.io/VoxelAirl
 
 
 
