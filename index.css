@@ -382,6 +382,7 @@
 /* 第三屏 */
 #content>.list .works {
   background: url(imgs/bg4.jpg) no-repeat;
+  background-size: cover;
 }
 
 #content>.list>.works .works1 {
