@@ -302,6 +302,7 @@ window.onload = function () {
   if (content.addEventListener) {
     content.addEventListener("DOMMouseScroll", function (event) {
       event = event || window.event;
+      clearTimeout(timer);
       timer = setTimeout(() => {
         fn(event);
       }, 200);
